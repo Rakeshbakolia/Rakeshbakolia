@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Bakolia</h1>
-<h3 align="center">A passionate Software developer from India with more than 4.5 years of experience in development.</h3>
+<h3 align="center">A passionate Software developer from India with more than 5 years of experience in development.</h3>
 
 - 📫 How to reach me **rakeshbakolia95@gmail.com**
 
